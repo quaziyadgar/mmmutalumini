@@ -1,10 +1,12 @@
 const firebaseConfig = {
-	apiKey: 'AIzaSyCVQgaMdAmzzKtbEn57HcVNZrtIuUo87xU',
-	authDomain: 'utkaltest.firebaseapp.com',
-	projectId: 'utkaltest',
-	storageBucket: 'utkaltest.appspot.com',
-	messagingSenderId: '609995841612',
-	appId: '1:609995841612:web:d415b88eee8f0e1c9394e9',
+	apiKey: "AIzaSyDNcnnEgwdQxW3lI6k4Ya76gxTr_eUJ5Qs",
+	authDomain: "mmmutalumni-d4d4e.firebaseapp.com",
+	databaseURL: "https://mmmutalumni-d4d4e-default-rtdb.firebaseio.com",
+	projectId: "mmmutalumni-d4d4e",
+	storageBucket: "mmmutalumni-d4d4e.appspot.com",
+	messagingSenderId: "267858301977",
+	appId: "1:267858301977:web:4f083a5db307da86278688",
+	measurementId: "G-6NSV2KZV43"
 };
 
 if (!firebase.apps.length) {
